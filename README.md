@@ -16,7 +16,7 @@ MapStruct是一个代码生成器，它基于约定大于配置的方式极大�
 
 
 
-这里有一篇[文章](https://www.yuque.com/yigenranshaodexiongmao/fgx0oh/vz15x7)介绍了几种Java映射框架的性能。从各方面来看，MapStruct是一个优秀的映射框架。
+这里有一篇[文章](https://vinceda.github.io/posts/Java-Bean%E8%BD%AC%E6%8D%A2%E6%A1%86%E6%9E%B6%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94(%E8%AF%91)/)介绍了几种Java映射框架的性能。从各方面来看，MapStruct是一个优秀的映射框架。
 
 
 
@@ -453,4 +453,4 @@ public abstract class AbstractMapper {
 
 ## 总结
 
-这篇文章介绍了MapStruct的几种基本用法，其实除了这些用法，MapStruct还有许多高阶用法，例如abstractMapper，@BeforeMapping等。由于我也没有深入使用过，这里就先不写了，后续用到会持续进行更新，如果写的有问题欢迎大家指出，谢谢！
+这篇文章介绍了MapStruct的几种基本用法，其实除了这些用法，MapStruct还有许多高阶用法。由于我也没有深入使用过，这里就先不写了，后续用到会持续进行更新，如果写的有问题欢迎大家指出，谢谢！
